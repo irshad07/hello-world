@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi Humans!
+i am ok with all good and 
